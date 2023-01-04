@@ -1,0 +1,11 @@
+/* Write your code here. */
+.tumbnail-container {
+  border: none;
+  background-color: transparent;
+  margin: 0;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.thumbnail {
+  opacity: 1;
+}

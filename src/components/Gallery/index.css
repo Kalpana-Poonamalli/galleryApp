@@ -1,0 +1,35 @@
+/* Write your code here. */
+.container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.g-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Roboto;
+}
+
+.img {
+  width: 70%;
+}
+.g-heading {
+  color: #1e293b;
+  font-size: 22px;
+  font-weight: 500;
+}
+.g-para {
+  color: #64748b;
+  font-weight: 400;
+}
+.g-gallery {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
